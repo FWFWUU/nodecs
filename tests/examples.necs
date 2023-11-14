@@ -1,0 +1,18 @@
+[Human
+	:Name @ String = "Test"
+	:Age @ Number = 0
+	
+	[Child
+		:Name@String = "Junior"
+		:Debuffs@String = "1", "2", "3"
+		]
+	]
+
+[Mesh
+	:Name@String = "Mesh Name"
+	
+	[Surface
+		:Vertices@String = "0,0,0", "0,1,0", "1,1,0", "0,0,1"
+		:Name@String = "CubeSurface"
+		]
+	]
