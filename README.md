@@ -10,7 +10,7 @@
 
 ```js
 [Human
-	:Name @ String = "Test"
+	:Name @ String = "Joey"
 	:Age @ Number = 0
 	
 	[Child
@@ -47,7 +47,7 @@ Preview:
 
 ```
 Human
-         {'Name': ['Test'], 'Age': [0.0]}
+         {'Name': ['Joey'], 'Age': [0.0]}
 Child
          {'Name': ['Junior'], 'Debuffs': ['1', '1', '1']}
         Parent:: Human
