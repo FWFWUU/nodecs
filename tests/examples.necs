@@ -1,6 +1,6 @@
 [Human
 	:Name @ String = "Test"
-	:Age @ Number = 0
+	:Age @ Number = 0, 1, 2
 	
 	[Child
 		:Name@String = "Junior"
